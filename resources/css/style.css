@@ -311,10 +311,6 @@ nav .active {
     align-items: center;
   }
 
-  .banner-container {
-    margin-top: 70px;
-  }
-
   .header-contents {
     width: 95%;
   }
@@ -352,6 +348,28 @@ nav .active {
 
 .banner-contents h1, .banner-contents h2 {
   margin: 0;
+}
+
+@media only screen and (max-width: 830px)  {
+  .banner-container {
+    margin-top: 0;
+    padding-top: 70px;
+    padding-bottom: 0px;
+    top: 0;
+    height: auto;
+  }
+
+  .banner-contents {
+    top: 60%;
+  }
+
+  .banner-contents h1 {
+    font-size: 2em;
+  }
+
+  .banner-contents h2 {
+    font-size: 1.8em;
+  }
 }
 
 /* Marquee banners */
@@ -461,6 +479,7 @@ nav .active {
     display: flex;
     flex-direction: column;
     height: auto;
+    padding-top: 16px;
   }
   .main-image {
     width: 100%;
