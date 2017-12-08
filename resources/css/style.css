@@ -45,7 +45,7 @@ h3 {
   margin-top: 0;
   margin-bottom: 16px;
   padding-top: 0;
-  background-image: url("https://halllou.github.io/jessica-michelle-github/resources/images/underline.png");
+  background-image: url("https://halllou.github.io/jessica-michelle/resources/images/underline.png");
   background-position: bottom;
   background-repeat: no-repeat;
   padding-bottom: 10px;
@@ -188,7 +188,7 @@ nav a:hover {
 }
 
 nav .active {
-  background-image: url("https://halllou.github.io/jessica-michelle-github/resources/images/underline.png");
+  background-image: url("https://halllou.github.io/jessica-michelle/resources/images/underline.png");
   background-position: bottom;
   background-repeat: no-repeat;
   padding-bottom: 10px;
@@ -388,19 +388,19 @@ nav .active {
 }
 
 .banner-about {
-  background-image: url("https://halllou.github.io/jessica-michelle-github/resources/images/banner-4.jpg");
+  background-image: url("https://halllou.github.io/jessica-michelle/resources/images/banner-4.jpg");
 }
 
 .banner-news {
-  background-image: url("https://halllou.github.io/jessica-michelle-github/resources/images/banner-5.jpg");
+  background-image: url("https://halllou.github.io/jessica-michelle/resources/images/banner-5.jpg");
 }
 
 .banner-contact {
-  background-image: url("https://halllou.github.io/jessica-michelle-github/resources/images/banner-2.jpg");
+  background-image: url("https://halllou.github.io/jessica-michelle/resources/images/banner-2.jpg");
 }
 
 .banner-classes {
-  background-image: url("https://halllou.github.io/jessica-michelle-github/resources/images/banner-7.jpg");
+  background-image: url("https://halllou.github.io/jessica-michelle/resources/images/banner-7.jpg");
 }
 
 .banner-button {
@@ -521,7 +521,7 @@ nav .active {
 .private-tuition h3 {
   color: #fff;
   text-align: left;
-  background-image: url("https://halllou.github.io/jessica-michelle-github/images/underline.png");
+  background-image: url("https://halllou.github.io/jessica-michelle/resources/images/underline.png");
   background-position: bottom left;
   background-repeat: no-repeat;
 }
@@ -592,7 +592,7 @@ nav .active {
 .news-text h3 {
   font-size: 2em;
   text-align: left;
-  background-image: url("https://halllou.github.io/jessica-michelle-github/resources/images/underline.png");
+  background-image: url("https://halllou.github.io/jessica-michelle/resources/images/underline.png");
   background-position: bottom left;
   background-repeat: no-repeat;
 }
@@ -770,7 +770,7 @@ nav .active {
 }
 
 .blue-section h3 {
-  background-image: url("https://halllou.github.io/jessica-michelle-github/resources/images/underline-white.png");
+  background-image: url("https://halllou.github.io/jessica-michelle/resources/images/underline-white.png");
   background-position: bottom center;
   background-repeat: no-repeat;
 }
@@ -799,7 +799,7 @@ nav .active {
 /* Video sections */
 
 .video-section {
-  background: linear-gradient(rgba(0,0,0, 0.4), rgba(0,0,0,0.4)), url("File://C:/Users/Louise87/Desktop/jessica-michelle/resources/images/video.jpg");
+  background: linear-gradient(rgba(0,0,0, 0.4), rgba(0,0,0,0.4)), url("https://halllou.github.io/jessica-michelle/resources/images/video.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
